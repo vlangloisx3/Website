@@ -1,4 +1,4 @@
-baseURL = "www.vlanglois.com"
+baseURL = "https://vlanglois.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Valerie Langlois"
