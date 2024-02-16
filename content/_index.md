@@ -1,13 +1,11 @@
 ---
 title: "Valerie Langlois"
-subtitle: "Postdoctoral Researcher"
+subtitle: "Data Scientist and Researcher"
 description: |
-  longish
-  text
-  here.  
+  I am a researcher associated with the Institute of Cognitive Science and the department of Psychology and   Neuroscience at the University of Colorado Boulder. I work with [Albert     Kim](https://www.colorado.edu/lab/kimlab/al-kim) and [Jared Novick](https://hesp.umd.edu/facultyprofile/novick/jared) on        projects involving   electroencephalography (EEG) and eye-tracking to extract measures related to executive   function and language processing.
 images:
   # goes in /static/img
-  - img/Recent Pic of me.JPG
+  - img/CirclePicMe.png
 image_left: true
 text_align_left: true
 show_social_links: true # specify social accounts in site config

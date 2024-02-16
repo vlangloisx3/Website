@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://vlanglois.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Valerie Langlois"
@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Valerie Langlois"
   #orgLocal = "Anywhere"
-  description = "Post-doctoral researcher studying psycholinguistics at CU Boulder"
+  description = "Data Scientist and Researcher at CU Boulder"
   favicon = "/img/favicon-wug.png"
   #logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
@@ -41,14 +41,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/Recent Pic of me.jpg"
+  sharing_image = "/img/CirclePicMe.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "vlangloisx3"
+  #twitter = "vlangloisx3"
   
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "grayscale"
+  theme = "plum"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -89,26 +89,26 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/vlangloisx3"
-#  [[params.social]]
-      #icon      = "facebook-square" # icon name without the 'fa-'
-      #icon_pack = "fab"
-      #url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-#  [[params.social]]
-  #    icon      = "instagram" # icon name without the 'fa-'
-    #  icon_pack = "fab"
-    #  url       = "https://www.instagram.com/explore/tags/apero/"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/vlangloisx3"
+      url       = "https://www.linkedin.com/in/vlangloisx3/"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?hl=en&user=kzsC2uIAAAAJ#d=gs_hdr_drw&t=1708041061657/"
+  [[params.social]]
+      icon      = "osf" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://osf.io/6rptf/"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://orcid.org/0000-0002-8082-1890"
   [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
+      icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "/blog/index.xml"
+      url       = "mailto:valerie.langlois@colorado.edu"
 
 [taxonomies]
   category = "categories"
@@ -122,21 +122,26 @@ enableEmoji = true
     title = "About"
     url = "/about/"
     weight = 1
+  #[[menu.header]]
+  #  name = "CV"
+  #  title = "CV"
+  #  url = "/cv/cv_10_12_23.pdf"
+  #  weight = 2
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/pubs/"
     weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Ongoing Projects"
-    url = "/project/"
-    weight = 3
-    [[menu.header]]
-      name = "Resources"
-      title = "Resources"
-      url = "/blog/"
-      weight = 4
+  #[[menu.header]]
+  #  name = "Projects"
+  #  title = "Ongoing Projects"
+  #  url = "/project/"
+  #  weight = 3
+  #  [[menu.header]]
+  #    name = "Resources"
+  #    title = "Resources"
+  #    url = "/blog/"
+  #    weight = 4
 
     
   # Configure footer  
