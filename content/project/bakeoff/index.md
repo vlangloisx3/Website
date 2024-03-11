@@ -1,14 +1,16 @@
 ---
-author: Eric Anderson
-categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+title: "Bakeoff"
+subtitle: "An R Package"
+excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
+date: 2019-07-01
+author: "Eric Anderson"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+tags:
+  - hugo-site
+categories:
+  - Theme Features
+  - R
+  - package
 layout: single
 links:
 - icon: door-open
@@ -19,10 +21,6 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
-tags:
-- hugo-site
-title: Bakeoff
 ---
 
 ![Formspree Logo](formspree-logo.png)

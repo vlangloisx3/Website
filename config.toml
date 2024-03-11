@@ -132,11 +132,11 @@ enableEmoji = true
     title = "Publications"
     url = "/pubs/"
     weight = 2
-  #[[menu.header]]
-  #  name = "Projects"
-  #  title = "Ongoing Projects"
-  #  url = "/project/"
-  #  weight = 3
+  [[menu.header]]
+    name = "Projects"
+    title = "Ongoing Projects"
+    url = "/portfolio/"
+    weight = 3
   #  [[menu.header]]
   #    name = "Resources"
   #    title = "Resources"
