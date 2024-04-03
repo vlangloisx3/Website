@@ -1,5 +1,6 @@
 ---
 author: Valerie Langlois
+type: project
 cascade:
   type: project
   show_author_byline: true
