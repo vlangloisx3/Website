@@ -9,7 +9,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View all projects
-    text_link_url: /art/
+    text_link_url: /pottery/
 description: "An online gallery of my current and past ceramic work. Click on an image to access the store listing, if still available."
 layout: list-grid
 show_author_byline: true
