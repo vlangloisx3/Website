@@ -137,11 +137,11 @@ enableEmoji = true
     title = "Ongoing Projects"
     url = "/portfolio/"
     weight = 3
-  #  [[menu.header]]
-  #    name = "Resources"
-  #    title = "Resources"
-  #    url = "/blog/"
-  #    weight = 4
+    [[menu.header]]
+      name = "Ceramics"
+      title = "Ceramics Portfolio"
+      url = "/art/"
+      weight = 4
 
     
   # Configure footer  
