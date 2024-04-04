@@ -1,7 +1,7 @@
 ---
 author: 
 categories:
-date: "2024-04-06"
+date: "2024-04-03"
 draft: false
 excerpt: "A well-sought out strawberry item"
 layout: single
