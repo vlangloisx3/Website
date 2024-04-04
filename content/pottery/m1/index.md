@@ -16,4 +16,4 @@ title: Possum Mug
 ---
 A ceramic clay mug thrown on the pottery wheel with a possum screaming into the void, painted and carved into the clay (or as my dad described it, an angry rat). 
 
-![Possum Mug](mug.png)
+![Possum Mug](mug.webp)
