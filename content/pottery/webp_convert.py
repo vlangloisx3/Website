@@ -10,6 +10,10 @@ def convert_to_webp(input_folder, output_folder):
     files = os.listdir(input_folder)
     
     for file in files:
+        
+        if file == ".DS_Store":  # Skip files like .DS_Store
+            continue
+            
         input_path = os.path.join(input_folder, file)
         
         # Open the image file
@@ -22,7 +26,7 @@ def convert_to_webp(input_folder, output_folder):
         print(f"Converted {input_path} to WebP format")
 
 if __name__ == "__main__":
-    input_folder = input("Enter the path to the folder containing PNG/JPG images: ")
-    output_folder = input("Enter the path to the output folder: ")
+    input_folder = "original"
+    output_folder = "converted"
     
     convert_to_webp(input_folder, output_folder)
