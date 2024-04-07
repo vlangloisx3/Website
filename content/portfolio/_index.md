@@ -9,7 +9,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all projects
     text_link_url: /portfolio/
-description: "A list of ongoing and past projects."
+description: "A list of ongoing and past projects." 
 layout: list-grid
 show_author_byline: true
 show_button_links: false

@@ -138,12 +138,12 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Ongoing Projects"
+    title = "Projects"
     url = "/portfolio/"
     weight = 3
     [[menu.header]]
       name = "Ceramics"
-      title = "Ceramics Portfolio"
+      title = "Ceramics"
       url = "/pottery/"
       weight = 4
 

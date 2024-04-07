@@ -5,11 +5,7 @@ date: "2024-04-03"
 draft: false
 excerpt: "A possum screaming into the void"
 layout: single
-categories:
-- pottery
-tags:
-- pottery
-subtitle: 
+subtitle:
 tags:
 title: Possum Mug
 ---
