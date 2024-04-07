@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Data Scientist, Researcher, and Ceramacist"
   favicon = "/img/favicon-wug.png"
   #logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["about","publications", "projects", "ceramics"]
+  mainSections = ["portfolio", "pottery"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]

@@ -5,11 +5,10 @@ date: "2024-04-03"
 draft: false
 excerpt: "A possum screaming into the void"
 layout: single
-links:
-- icon: shopping-bag
-  icon_pack: fas
-  name: Etsy
-  url: http://primspottery.etsy.com
+categories:
+- pottery
+tags:
+- pottery
 subtitle: 
 tags:
 title: Possum Mug
