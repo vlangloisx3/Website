@@ -15,29 +15,28 @@
 
   <!--now add the featured content-->
   {{ $number_featured := $page.Params.number_featured | default 2 }}
+<div class="flex flex-wrap">
   {{ range first $number_featured .Pages.ByDate.Reverse }}
-  <article class="pb1 pb2-ns">
+   <article class="w-50-l">
     <h4 class="f4 mt3 mb2 lh-title"><a href="{{ .RelPermalink }}" class="dim no-underline">{{ .Title }}</a></h4>
-      <div class="flex flex-column flex-row-ns mb2 mb3-l items-center">
-          <figure class="mr3 w-50 w-20-ns">
-            <!--featured image for the branch bundle-->
-            {{ $branch := (.CurrentSection.Resources.ByType "image").GetMatch "*feature*" }}
-            <!--featured image for the leaf bundle-->
-            {{ $leaf := (.Resources.ByType "image").GetMatch "*feature*" }}
-            {{ $thumbnail := $leaf | default $branch }}
-            <a href="{{ .RelPermalink }}">
-              {{ with $thumbnail }}
-              <img src="{{ .RelPermalink | absURL }}" align="left" class="mw-100 db">
-            {{ end }}
-            </a>
-          </figure>
-
-        <div class="w-100 w-80-ns pl3-ns">
-        <p class="measure lh-copy cf">{{ if .Params.Excerpt }}{{ .Params.Excerpt | markdownify }}{{ else }}{{ .Summary | markdownify }}</p>{{ end }}
-          <a href="{{ .RelPermalink }}">Read more</a></p>
-        </div>
-    </article>
-  {{ end }} <!--end range across grouped pages-->
+    <div class="flex flex-column flex-row-ns items-center">
+      <figure class="mr3 w-65 w-70-ns">
+        <!--featured image for the branch bundle-->
+        {{ $branch := (.CurrentSection.Resources.ByType "image").GetMatch "*feature*" }}
+        <!--featured image for the leaf bundle-->
+        {{ $leaf := (.Resources.ByType "image").GetMatch "*feature*" }}
+        {{ $thumbnail := $leaf | default $branch }}
+        <a href="{{ .RelPermalink }}"> 
+          {{ with $thumbnail }}
+          <img src="{{ .RelPermalink | absURL }}" align="left" class="mw-100 db">
+          {{ end }}
+        </a>
+      </figure>
+    </div>
+    <p class="measure lh-copy cf">{{ if .Params.Excerpt }}{{ .Params.Excerpt | markdownify }}{{ else }}{{ .Summary | markdownify }}{{ end }}</p>
+  </article>
+  {{ end }}
+</div>
 
   {{ with $section }}
       <div class="tr">
