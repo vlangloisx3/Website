@@ -44,8 +44,6 @@ From ~250 ms to 750 ms, performance accuracy reaches about 65%. This is particul
 
 **Note**: Shaded region represents 95% confidence intervals, and cluster-based permutation testing was used to evaluate difference from chance.
 
-### Comparing Between Models
 
-Now let's solve the same classification problem, but see if we can get better performance with a neural network! Since we are using frequency data, we could consider running a convolutional neural network. Since CNNs are great at learning images, we can continue to use EEG **spectrograms**, the time-frequency characteristics of signals, as input.
 
 
