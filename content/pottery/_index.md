@@ -12,7 +12,7 @@ cascade:
     text_link_url: /pottery/
 description: "An online gallery of my current and past ceramic work. Click on an image to access the store listing, if still available." 
 layout: list-grid
-show_author_byline: true
+show_author_byline: false
 show_button_links: false 
 show_post_date: false
 show_post_thumbnail: true
