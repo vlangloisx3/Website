@@ -6,10 +6,6 @@ draft: false
 excerpt: "A well-sought out strawberry item"
 layout: single
 links:
-- icon: shopping-bag
-  icon_pack: fas
-  name: Etsy
-  url: http://primspottery.etsy.com
 subtitle: 
 tags:
 title: Strawberry Mug

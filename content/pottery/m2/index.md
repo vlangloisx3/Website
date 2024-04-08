@@ -6,10 +6,6 @@ draft: false
 excerpt: "Would you still love me?"
 layout: single
 links:
-- icon: shopping-bag
-  icon_pack: fas
-  name: Etsy
-  url: http://primspottery.etsy.com
 subtitle: 
 tags:
 title: Worm Mug
