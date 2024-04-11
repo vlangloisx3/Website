@@ -32,7 +32,7 @@ enableEmoji = true
   #orgLocal = "Anywhere"
   description = "Data Scientist, Researcher, and Ceramacist"
   favicon = "/img/favicon-wug.png"
-  logo = "/img/favicon-wug.png"
+  #logo = "/img/favicon-wug.png"
   mainSections = ["project"] 
   navallcaps = true
   # show/hide social icons in site header & footer
