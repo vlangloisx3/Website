@@ -9,7 +9,6 @@ links:
 subtitle: 
 tags:
 title: Strawberry Mug
-featured: true
 ---
 A ceramic clay mug thrown on the pottery wheel with strawberry and strawberry plants carved and painted all around.
 
