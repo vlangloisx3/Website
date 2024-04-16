@@ -13,6 +13,7 @@ links:
 subtitle: 
 tags:
 title: "Chicken Mug"
+featured: true
 ---
 A ceramic clay mug thrown on the pottery wheel with a video game chicken painted on it. Holds about 10oz and has a height of 3 inches.
 

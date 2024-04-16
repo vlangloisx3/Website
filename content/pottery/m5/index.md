@@ -13,7 +13,6 @@ links:
 subtitle: 
 tags:
 title: "Cow Mug"
-featured: true
 ---
 A ceramic clay mug thrown on the pottery wheel with a carved cow design.
 
