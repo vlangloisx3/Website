@@ -13,7 +13,6 @@ links:
 subtitle: 
 tags:
 title: Goose Mug
-featured: true
 ---
 A ceramic clay mug thrown on the pottery wheel with a goose holding a rose, painted and carved into the clay.
 
