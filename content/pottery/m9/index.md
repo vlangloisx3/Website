@@ -3,7 +3,7 @@ author:
 categories:
 date: "2023-10-27"
 draft: false
-excerpt: "From my time in the maroon bells"
+excerpt: "The mountains are calling and I must go"
 layout: single
 subtitle: 
 tags:
