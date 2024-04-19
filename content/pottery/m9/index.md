@@ -1,15 +1,10 @@
 ---
 author: 
 categories:
-date: "2024-04-19"
+date: "2023-10-27"
 draft: false
 excerpt: "From my time in the maroon bells"
 layout: single
-links:
-- icon: shopping-bag
-  icon_pack: fas
-  name: Etsy
-  url: ""
 subtitle: 
 tags:
 title: "Maroon Bells Mug"
