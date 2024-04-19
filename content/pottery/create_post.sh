@@ -27,11 +27,21 @@ date: "${date}"
 draft: false
 excerpt: "${excerpt}"
 layout: single
+
+EOF
+
+# Conditionally add the links section if the URL is not empty
+if [ -n "$url" ]; then
+cat <<EOF >> "index.md"
 links:
 - icon: shopping-bag
   icon_pack: fas
   name: Etsy
   url: "${url}"
+EOF
+fi
+
+cat <<EOF >> "index.md"
 subtitle: 
 tags:
 title: "${title}"
