@@ -10,7 +10,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all projects
     text_link_url: /pottery/
-description: "An online gallery of my current and past ceramic work, made in Longmont, Colorado. The name Prim's Pottery comes from my cat, Primrose, who likes to inspect every new ceramic piece I bring home. Click on an image to access the store listing, if still available." 
+description: "An online gallery of my current and past ceramic work.<br><br>The name Prim's Pottery comes from my cat, Primrose, who likes to inspect every new ceramic piece I bring home. Click on an image to access the store listing, if still available." 
 layout: list-grid
 show_author_byline: false
 show_button_links: false 
