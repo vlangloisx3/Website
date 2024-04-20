@@ -4,7 +4,8 @@ languageCode = "en"
 title = "Valerie Langlois"
 author = "Valerie Langlois"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = "G-S2SH7NX8J2"
+#googleAnalytics = ""
+GoogleAnalyticsID = "G-S2SH7NX8J2"
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -44,6 +45,8 @@ enableEmoji = true
   sharing_image = "/img/CirclePicMe.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   #twitter = "vlangloisx3"
+  # Google Analytics 4
+  GoogleAnalyticsID = "G-S2SH7NX8J2"
   
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
