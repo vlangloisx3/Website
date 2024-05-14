@@ -6,10 +6,6 @@ draft: false
 excerpt: "A silly goose causing havoc"
 layout: single
 links:
-- icon: shopping-bag
-  icon_pack: fas
-  name: Etsy
-  url: https://primspottery.etsy.com/listing/1687900575
 subtitle: 
 tags:
 title: Goose Mug

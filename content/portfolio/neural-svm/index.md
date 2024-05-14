@@ -19,7 +19,7 @@ People are faced with noisy, ambiguous language every day whether it's through c
 
 Using **electroencephalography** (EEG, for short), we can investigate what kind of brain patterns contribute to resolving difficulty in language. Here, I have collaborated with the University of Colorado and the University of Maryland to source and put together a neural data set that tackles this question.
 
-For a more detailed description about the methods and design of the project, I will be giving a presentation on this project at the [**37th Annual Conference on Human Sentence Processing**](https://hsp2024.github.io/). Paper is in prep.
+For a more detailed description about the methods and design of the project, this project will be presented at the [**37th Annual Conference on Human Sentence Processing**](https://hsp2024.github.io/). Paper is in prep.
 
 ### Main Goals
 
@@ -44,6 +44,8 @@ From ~250 ms to 750 ms, performance accuracy reaches about 65%. This is particul
 
 **Note**: Shaded region represents 95% confidence intervals, and cluster-based permutation testing was used to evaluate difference from chance.
 
+### Comparing Between Models
 
+Now let's solve the same classification problem, but see if we can get better performance with a neural network! Since we are using frequency data, we could consider running a convolutional neural network. Since CNNs are great at learning images, we can continue to use EEG **spectrograms**, the time-frequency characteristics of signals, as input.
 
 
