@@ -11,7 +11,13 @@ title: Academic Publications
 PDF copies of the publications can be downloaded from the DOI link provided. If you have any questions or cannot access the paper, feel free to send me an email.
 
 ## Publications
-Ness, T., Langlois, V. J., Kim, A. E., & Novick, J. M. (2023) The state of cognitive control in language processing.
+Langlois, V. J., Ness, T., Novick, J. M. &, Kim, A. E. (in press, 2024). Does cognitive control
+modulate referential ambiguity resolution?: A remote visual world study
+
+Ness, T., Langlois, V. J., Novick, J. M. &, Kim, A. E. (in press, 2024). Theta-band neural oscillations
+reflect cognitive control during language processing.
+
+Ness, T., Langlois, V. J., Kim, A. E., & Novick, J. M. (2023). The state of cognitive control in language processing. Perspectives on Psychological Science, 17456916231197122. [https://doi.org/10.1177/17456916231197122](https://doi.org/10.1177/17456916231197122)
 
 Langlois, V. J., Zerkle, S. A., & Arnold, J. E. (2023). Does referential expectation guide both linguistic and social constraints on pronoun comprehension?. Journal of Memory and Language, 129, 104401. [https://doi.org/10.1016/j.jml.2022.104401](https://doi.org/10.1016/j.jml.2022.104401) [**[DATA]](https://osf.io/cfq4u/)**
 
@@ -20,6 +26,12 @@ Langlois, V. J. & Arnold, J. E. (2020). Print exposure explains individual diffe
 Fraundorf, S. H., Arnold, J. E., Langlois, V.J. (2018). “Disfluency.” In Oxford Bibliographies in Linguistics. Ed. Mark Aronoff. New York: Oxford University Press. Link. — Published in 2014, updated in 2018
 
 ## Talks:
+
+Langlois, V. J., Wade, M., Montiel, A. M., Ness T., Novick, J. M., & Kim, A. E. (2024). Cognitive control supports recovery from misanalysis: Evidence from neural oscillations. Talk given at The 37th Annual Conference on Human Sentence Processing. Hosted by University of Michigan, MI.
+
+Langlois, V. J. (2024). Cognitive control supports recovery from misanalysis. Invited talk at University at Buffalo, Cognitive Science Colloquium
+
+Langlois, V. J. (2023), The role of predictability on pronoun comprehension. Invited talk at the Colorado School of Mines. Golden, CO.
 
 Ness, T., Langlois, V. J., Chow W., Phillips C., Novick, J. M., & Kim, A. E. (2022). Cognitive control in thematic role assignment: Evidence from neural oscillations. Talk given at Psychonomic Society 63rd Annual Meeting
 
@@ -34,6 +46,14 @@ Langlois, V. J., Zerkle, S. A., Arnold, J. E. (2018). Does planning explain pred
 Langlois, V. J., Arnold, J. E. (2017). How disfluent can you be?: Disfluency as a cue in anxious speakers. Departmental talk given at the University of North Carolina at Chapel Hill
 
 ## Posters:
+
+Langlois, V. J., Ness, T., Novick, J. M., & Kim, A. E. (2023). Using webcam eye-tracking to replicate
+subtle sentence processing effects. Poster presented at The 36th Annual Conference on Human Sentence
+Processing. Hosted by University of Pittsburgh, PA.
+
+Langlois, V. J., Ness, T., Novick, J. M., & Kim, A. E. (2023). Sustained cognitive control affects
+sentence processing: Evidence from neural oscillations. Poster presented at The 36th Annual Conference
+on Human Sentence Processing. Hosted by University of Pittsburgh, PA.
 
 Langlois, V. J. (2022). Examining the relationship between different frequency statistics in syntactic processing. Short talk presented at The 35th Annual Conference on Human Sentence Processing. Hosted by UC Santa Cruz, CA.
 
