@@ -11,11 +11,11 @@ title: Academic Publications
 PDF copies of the publications can be downloaded from the DOI link provided. If you have any questions or cannot access the paper, feel free to send me an email.
 
 ## Publications
-Langlois, V. J., Ness, T., Novick, J. M. &, Kim, A. E. (in press, 2024). Does cognitive control
-modulate referential ambiguity resolution?: A remote visual world study
+Langlois, V. J., Ness, T., Novick, J. M. &, Kim, A. E. (2024). Does cognitive control
+modulate referential ambiguity resolution?: A remote visual world study. Language, Cognition and Neuroscience, 39(7), 924–938. [https://doi.org/10.1080/23273798.2024.2369182](https://doi.org/10.1080/23273798.2024.2369182)
 
-Ness, T., Langlois, V. J., Novick, J. M. &, Kim, A. E. (in press, 2024). Theta-band neural oscillations
-reflect cognitive control during language processing.
+Ness, T., Langlois, V. J., Novick, J. M. &, Kim, A. E. (2024). Theta-band neural oscillations
+reflect cognitive control during language processing. Journal of Experimental Psychology: General, 153(9), 2279–2298. [https://doi.org/10.1037/xge0001621](https://doi.org/10.1037/xge0001621)
 
 Ness, T., Langlois, V. J., Kim, A. E., & Novick, J. M. (2023). The state of cognitive control in language processing. Perspectives on Psychological Science, 17456916231197122. [https://doi.org/10.1177/17456916231197122](https://doi.org/10.1177/17456916231197122)
 
