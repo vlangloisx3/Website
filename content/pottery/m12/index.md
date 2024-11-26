@@ -10,7 +10,7 @@ subtitle:
 tags:
 title: "Great Horned Owl Mug"
 ---
-
+A ceramic mug thrown on the pottery wheel with a great horned owl sitting on a branch, while another soars in the air on the back side. 
 
 ![Great Horned Owl Mug](featured.webp)
-![Great Horned Owl Mug Other Side](featured2.webp)
+![Great Horned Owl Mug Back](featured2.webp)

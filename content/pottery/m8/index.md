@@ -6,10 +6,6 @@ draft: false
 excerpt: "A coop animal that lays eggs"
 layout: single
 links:
-- icon: shopping-bag
-  icon_pack: fas
-  name: Etsy
-  url: "https://primspottery.etsy.com/listing/1694883302"
 subtitle: 
 tags:
 title: "Chicken Mug"
