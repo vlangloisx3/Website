@@ -9,7 +9,7 @@ links:
 subtitle: 
 tags:
 title: "Chicken Mug"
-featured: true
+featured: false
 ---
 A ceramic clay mug thrown on the pottery wheel with a video game chicken painted on it.
 
