@@ -10,9 +10,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all projects
     text_link_url: /pottery/
-description: "An online gallery of my current and past ceramic work.
-
-The name Prim's Pottery comes from my cat, Primrose, who likes to inspect every new ceramic piece I bring home. Click on an image to access the store listing, if still available." 
+description: "An online gallery of my current and past ceramic work. Click on an image to access the store listing, if still available." 
 layout: list-grid
 show_author_byline: false
 show_button_links: false 
@@ -25,7 +23,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for Your Projects 
-title: "Prim's Pottery"
+title: "Ceramics"
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
