@@ -11,6 +11,9 @@ title: Academic Publications
 PDF copies of the publications can be downloaded from the DOI link provided. If you have any questions or cannot access the paper, feel free to send me an email.
 
 ## Publications
+
+Kim, A. E., Langlois, V. J., Ness, T., Wade, M., & Novick, J. M. (2025). Resolving conflicting interpretations: Theta band oscillations and the role of cognitive control. Neuropsychologia. 217, 109214. [https://doi.org/10.1016/j.neuropsychologia.2025.109214](https://doi.org/10.1016/j.neuropsychologia.2025.109214)
+
 Langlois, V. J., Ness, T., Novick, J. M. &, Kim, A. E. (2024). Does cognitive control
 modulate referential ambiguity resolution?: A remote visual world study. Language, Cognition and Neuroscience, 39(7), 924–938. [https://doi.org/10.1080/23273798.2024.2369182](https://doi.org/10.1080/23273798.2024.2369182)
 

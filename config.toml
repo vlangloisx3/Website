@@ -111,10 +111,7 @@ enableEmoji = true
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "envelope" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "mailto:valerie.langlois@colorado.edu"
+
 
 [taxonomies]
   category = "categories"
